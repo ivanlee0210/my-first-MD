@@ -1,5 +1,4 @@
-
-# Good ChatBot & Bad ChatBot
+# Good Chatbot vs. Bad Chatbot
 
 ![alt text](https://images.wsj.net/im-519320/?width=540&size=1.5)
 
@@ -7,7 +6,7 @@
 
 ---
 
-## Examples of Good ChatBots
+## Examples of Good Chatbots
 
 ### 1. Woebot (Mental Health Companion)
 
@@ -73,3 +72,80 @@
 - *Contextual immersion*
 - *Personalized feedback*
 - *Boosts motivation*
+
+---
+
+## 💔 Examples of Bad Chatbot
+
+> Recently, chatbots have improved significantly, making it difficult to find clear examples of poor performance. Therefore, the following examples are based on my past experiences.
+
+### 1. Banking Application Chatbot
+
+> **User**: *I want to check last month’s credit card bill.*
+>> **ChatBot**: *Are you applying for a new credit card?*
+
+🔴 **What's wrong**:
+
+1. Keyword-based misunderstanding.
+2. Ignores user’s actual intent.
+
+---
+
+### 2. E-commerce Customer Service Bot
+
+> **User**: The mug I ordered arrived broken. I need a refund.
+>> **ChatBot**: Your order has been delivered. Thank you!
+
+🔴 **What's wrong**:  
+1. Doesn’t register the problem.
+2. No apology or next steps offered.
+
+---
+
+### 3. Kingobot
+
+> **It used to be bad, but now it become more useful.**
+
+>**User**: Today's menu.
+>>**ChatBot**: 귀하의 요청을 이해할 수 없습니다.
+
+🔴 **What's wrong**:
+
+1. Doesn't understand user's request or perform requested action.
+2. Gives a generic, irrelevant response.
+3. Cannot provide response in language that user used.
+
+✅ **New Advancement**:
+
+![Kinggobot1](/image/Kinggobot1.PNG)
+![Kinggobot2](/image/Kinggobot2.PNG)
+
+> - The first two problems seem to be solved, but still is not so friendly for international studnets.
+
+---
+
+## 📊 Summary Table
+
+| Domain     | Good ChatBot Behavior| Bad ChatBot Behavior|
+|------------|----------------------|---------------------|
+| Education  | Correct, engaging, learner-friendly| Robotic, no feedback loop|
+| Emotional Support | Empathetic, sensitive, responsive| Cold, dismissive, lacks context awareness        |
+| Customer Support | Provides accurate info + follow-up       | Ignores complaint, off-topic responses           |
+| Task Execution| Gives usable templates and options          | Avoids action, asks user to contact support      |
+
+---
+
+## ✅ Key Features of a Good ChatBot
+
+- Understands user intent, even in complex sentences  
+- Offers emotional intelligence where appropriate  
+- Provides next steps and guides users through tasks  
+- Maintains natural, friendly, and useful communication
+
+## ❌ Common Bad ChatBot Issues
+
+- Overly reliant on keyword matching  
+- Fails to adapt to unexpected input  
+- Avoids responsibility (e.g., "Contact human agent")  
+- Poor error handling or fallback strategies  
+- Lacks basic empathy in emotionally sensitive situations
