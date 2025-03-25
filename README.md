@@ -75,6 +75,29 @@
 
 ---
 
+### 3. China Mobile Smart Assistant (AI-Driven Customer Service)
+
+> **This is a chatbot I recently used via China Mobile’s official platform. It is AI-powered and supports both voice and text input.**
+
+---
+
+***Use Case**:I wanted to apply for a new SIM card.*
+>**Experience Flow**:
+>>- I typed in my request: *"I want to get a new SIM card."*
+>>- The chatbot immediately understood the intent and **redirected me to the correct service page**.
+>>- It also used **voice playback**, saying: *“I’ve found the following page for you. Please check if it meets your need.”*
+>>- On the redirected page, a **floating avatar button** remained visible in the corner, allowing me to continue chatting at any time without going back.
+
+🟢 **Why it's good**:
+
+- *Multi-modal input.*
+- *Immediate intent recognition.*
+- *Human-like guidance.*
+- *Persistent presence.*
+- *Task-oriented design.*
+
+📌 *This kind of chatbot shows how AI can enhance customer experience through seamless service integration and proactive assistance.*
+
 ## 💔 Examples of Bad Chatbot
 
 > Recently, chatbots have improved significantly, making it difficult to find clear examples of poor performance. Therefore, the following examples are based on my past experiences.
@@ -124,28 +147,13 @@
 
 ---
 
-## 📊 Summary Table
+## 📊 Comparison Table: Good vs. Bad Chatbots
 
-| Domain     | Good ChatBot Behavior| Bad ChatBot Behavior|
-|------------|----------------------|---------------------|
-| Education  | Correct, engaging, learner-friendly| Robotic, no feedback loop|
-| Emotional Support | Empathetic, sensitive, responsive| Cold, dismissive, lacks context awareness        |
-| Customer Support | Provides accurate info + follow-up       | Ignores complaint, off-topic responses           |
-| Task Execution| Gives usable templates and options          | Avoids action, asks user to contact support      |
-
----
-
-## ✅ Key Features of a Good ChatBot
-
-- Understands user intent, even in complex sentences  
-- Offers emotional intelligence where appropriate  
-- Provides next steps and guides users through tasks  
-- Maintains natural, friendly, and useful communication
-
-## ❌ Common Bad ChatBot Issues
-
-- Overly reliant on keyword matching  
-- Fails to adapt to unexpected input  
-- Avoids responsibility (e.g., "Contact human agent")  
-- Poor error handling or fallback strategies  
-- Lacks basic empathy in emotionally sensitive situations
+| Criteria|✅ Good Chatbot|❌ Bad Chatbot|
+|---------|---------------|--------------|
+|**Understanding**|Understands user intent and context|Relies on keyword matching, often misinterprets input|
+|**Emotional Intelligence**|Offer emotional intelligence where appropriate|Robotic or insensitive responses|
+|**Interaction Style**|Supports multi-turn, natural conversation|One-off or broken responses|
+|**Response Quality**|Provides relevant answers and clear next steps|Gives generic, irrelevant, or no response|
+|**Language Flexibility**|Recognizes and responds appropriately in user's language|May ignore or mishandle non-default languages|
+|**Adaptability**|Learns and improves over time, stays updated|Stagnant, outdated, or limited in capability|
