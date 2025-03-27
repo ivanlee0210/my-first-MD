@@ -12,13 +12,13 @@
 
 > **This application used to be available in Korea, but it is no longer accessible now. Therefore, I cannot show the detailed interface, but I can list some examples based on my memory of using Woebot.**
 
-**Users interact with Woebot in 2 ways**
+### Users interact with Woebot in 2 ways
 
-*1> by typing in whatever text they’d like*
+1. By typing in whatever text they’d like
 
 ![Woebot ScreenShot from Internet 1](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52317967&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
 
-*2> by choosing prewritten responses.*
+2. By choosing prewritten responses.
 
 ![Woebot ScreenShot from Internet 2](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52320366&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
 
@@ -82,7 +82,9 @@
 ---
 
 ***Use Case**:I wanted to apply for a new SIM card.*
+
 >**Experience Flow**:
+
 >>- I typed in my request: *"I want to get a new SIM card."*
 >>- The chatbot immediately understood the intent and **redirected me to the correct service page**.
 >>- It also used **voice playback**, saying: *“I’ve found the following page for you. Please check if it meets your need.”*
@@ -120,8 +122,9 @@
 >> **ChatBot**: Your order has been delivered. Thank you!
 
 🔴 **What's wrong**:  
-1. Doesn’t register the problem.
-2. No apology or next steps offered.
+
+1. Doesn’t register the problem.  
+2. No apology or next steps offered.  
 
 ---
 
