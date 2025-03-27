@@ -156,11 +156,8 @@
 
 ✅ **New Advancement**:
 
-
 <img src="/image/Kinggobot1.PNG" width="50%">
-
-![Kinggobot1](/image/Kinggobot1.PNG)
-![Kinggobot2](/image/Kinggobot2.PNG)
+<img src="/image/Kinggobot2.PNG" width="50%">
 
 > - The first two problems seem to be solved, but still is not so friendly for international studnets.
 
