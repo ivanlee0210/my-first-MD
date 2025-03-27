@@ -156,8 +156,8 @@
 
 ✅ **New Advancement**:
 
-![Kinggobot1](/image/Kinggobot1.PNG)
-![Kinggobot2](/image/Kinggobot2.PNG)
+![Kinggobot1](/image/Kinggobot1.PNG =62.5x62.5)  
+![Kinggobot2](/image/Kinggobot2.PNG =62.5x62.5)
 
 > - The first two problems seem to be solved, but still is not so friendly for international studnets.
 
