@@ -131,7 +131,6 @@
 ### 3. Kingobot
 
 > ***It used to be bad, but now it become more useful.***
-
 >**User**: Today's menu.
 >>**ChatBot**: 귀하의 요청을 이해할 수 없습니다.
 
