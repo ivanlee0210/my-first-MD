@@ -6,6 +6,20 @@
 
 ---
 
+# Table of Contents
+
+1. [Examples of Good Chatbots](#examples-of-good-chatbots)  
+   - [Woebot (Mental Health Companion)](#1-woebot-mental-health-companion)  
+   - [Duolingo Max: Voice Conversations with Lily](#2-duolingo-max-voice-conversations-with-lily)  
+   - [China Mobile Smart Assistant (AI-Driven Customer Service)](#3-china-mobile-smart-assistant-ai-driven-customer-service)  
+2. [Examples of Bad Chatbots](#examples-of-bad-chatbots)  
+   - [Banking Application Chatbot](#1-banking-application-chatbot)  
+   - [E-commerce Customer Service Bot](#2-e-commerce-customer-service-bot)  
+   - [Kingobot](#3-kingobot)  
+3. [Comparison Table: Good vs. Bad Chatbots](#-comparison-table-good-vs-bad-chatbots)
+
+---
+
 ## Examples of Good Chatbots
 
 ### 1. Woebot (Mental Health Companion)
