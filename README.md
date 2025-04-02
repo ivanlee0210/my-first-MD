@@ -1,6 +1,6 @@
 # Good Chatbot vs. Bad Chatbot
 
-![alt text](/image/goodbad.png)
+<img src="/image/goodbad.png" width="60%">
 
 *This document outlines some examples of good chatbots and bad chatbots, and outlines some key differences between a good chatbot and a bad one.*
 
