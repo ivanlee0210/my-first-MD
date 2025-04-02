@@ -1,8 +1,8 @@
 # Good Chatbot vs. Bad Chatbot
 
-![alt text](https://images.wsj.net/im-519320/?width=540&size=1.5)
+![alt text](/image/goodbad.png)
 
-*This document outlines some examples of good chatbots and bad chatbots, and outlines soem key differences between a good chatbot and a bad one.*
+*This document outlines some examples of good chatbots and bad chatbots, and outlines some key differences between a good chatbot and a bad one.*
 
 ---
 
@@ -28,30 +28,29 @@
 
 ### Users interact with Woebot in 2 ways
 
-1. By typing in whatever text they’d like
+1. By typing in whatever text they’d like.
 
-![Woebot ScreenShot from Internet 1](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52317967&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
+![Woebot Screenshot from Internet 1](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52317967&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
 
 2. By choosing prewritten responses.
 
-![Woebot ScreenShot from Internet 2](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52320366&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
+![Woebot Screenshot from Internet 2](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52320366&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
 
 **My Personal Experience [*]:**
 
 [*]: Just based on my memory, not fully aligned with the application’s actual responses.
 
-> **Me**: *I’m feeling very bad now, I am so angry.*
->> **Woebot**: *I hear you. Would you like to tell me what happened with you? Maybe I can help you.*
->
-> **Me**: *Not now, I am really angry and I feel that I cannot breath. How can they do this to me.*
->> **Woebot**: *Then maybe you can tell me about that when you feel better. Want to try a short breathing exercise together?*
->
-> **Me**: Fine.
->> **Woebot**: [Breathing exercise]
->> **Woebot**: *Feel better now? Do you want to tell me what happened now?*
->
-> **Me**: [......Share my feeling and things happened to me......]
->> **Woebot**: *It sounds like you’re going through a tough time in your relationship. Did I understand that correctly?*
+```
+Me: I’m feeling very bad now, I am so angry.
+  Woebot: I hear you. Would you like to tell me what happened with you? Maybe I can help you.
+Me: Not now, I am really angry and I feel that I cannot breath. How can they do this to me.
+  Woebot: Then maybe you can tell me about that when you feel better. Want to try a short breathing exercise together?
+Me: Fine.
+  Woebot: [Breathing exercise]
+  Woebot: Feel better now? Do you want to tell me what happened now?
+Me: [......Share my feeling and things happened to me......]
+  Woebot: It sounds like you’re going through a tough time in your relationship. Did I understand that correctly?
+```
 
 🟢 **Why it's good**:  
 
@@ -98,7 +97,6 @@
 ***Use Case**:I wanted to apply for a new SIM card.*
 
 >**Experience Flow**:
-
 >>- I typed in my request: *"I want to get a new SIM card."*
 >>- The chatbot immediately understood the intent and **redirected me to the correct service page**.
 >>- It also used **voice playback**, saying: *“I’ve found the following page for you. Please check if it meets your need.”*
@@ -120,8 +118,10 @@
 
 ### 1. Banking Application Chatbot
 
-> **User**: *I want to check last month’s credit card bill.*
->> **ChatBot**: *Are you applying for a new credit card?*
+```
+User: I want to check last month’s credit card bill.
+  ChatBot: Are you applying for a new credit card?
+```
 
 🔴 **What's wrong**:
 
@@ -132,8 +132,10 @@
 
 ### 2. E-commerce Customer Service Bot
 
-> **User**: The mug I ordered arrived broken. I need a refund.
->> **ChatBot**: Your order has been delivered. Thank you!
+```
+User: The mug I ordered arrived broken. I need a refund.
+  ChatBot: Your order has been delivered. Thank you!
+```
 
 🔴 **What's wrong**:  
 
@@ -145,8 +147,11 @@
 ### 3. Kingobot
 
 > ***It used to be bad, but now it become more useful.***
->**User**: Today's menu.
->>**ChatBot**: 귀하의 요청을 이해할 수 없습니다.
+
+```
+User: Today's menu.
+  ChatBot: 귀하의 요청을 이해할 수 없습니다.
+```
 
 🔴 **What's wrong**:
 
@@ -173,3 +178,10 @@
 |**Response Quality**|Provides relevant answers and clear next steps|Gives generic, irrelevant, or no response|
 |**Language Flexibility**|Recognizes and responds appropriately in user's language|May ignore or mishandle non-default languages|
 |**Adaptability**|Learns and improves over time, stays updated|Stagnant, outdated, or limited in capability|
+
+---
+
+## References
+
+- [Woebot Health Official Website](https://woebothealth.com/)
+- [Duolingo Blog: Video Call with Lily](https://blog.duolingo.com/video-call/)  
