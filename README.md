@@ -8,15 +8,21 @@
 
 # Table of Contents
 
-1. [Examples of Good Chatbots](#examples-of-good-chatbots)  
+1. [What is a Chatbot?](#what-is-a-chatbot)
+   - [Types of Chatbots](#types-of-chatbots)
+   - [Common Use Cases](#common-use-cases)
+2. [What makes a good chatbot?](#what-makes-a-good-chatbot)
+3. [What makes a bad chatbot?](#what-makes-a-bad-chatbot)
+4. [Examples of Good Chatbots](#examples-of-good-chatbots)  
    - [Woebot (Mental Health Companion)](#1-woebot-mental-health-companion)  
    - [Duolingo Max: Voice Conversations with Lily](#2-duolingo-max-voice-conversations-with-lily)  
-   - [China Mobile Smart Assistant (AI-Driven Customer Service)](#3-china-mobile-smart-assistant-ai-driven-customer-service)  
-2. [Examples of Bad Chatbots](#examples-of-bad-chatbots)  
+   - [China Mobile Smart Assistant](#3-china-mobile-smart-assistant-ai-driven-customer-service)  
+5. [Examples of Bad Chatbots](#-examples-of-bad-chatbot)  
    - [Banking Application Chatbot](#1-banking-application-chatbot)  
    - [E-commerce Customer Service Bot](#2-e-commerce-customer-service-bot)  
    - [Kingobot](#3-kingobot)  
-3. [Comparison Table: Good vs. Bad Chatbots](#-comparison-table-good-vs-bad-chatbots)
+6. [Comparison Table: Good vs. Bad Chatbots](#-comparison-table-good-vs-bad-chatbots)
+7. [References](#references)
 
 ---
 
