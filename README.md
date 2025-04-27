@@ -71,27 +71,39 @@ It understands human languages through **Natural Language Processing (NLP)** and
 
 ---
 
-### What makes a good chatbot?
+## ✅ What makes a good chatbot?
 
-A good chatbot exhibits:
+<div class="good-chatbot-box">
 
-* **Understanding**: Ability to **understand user intent accurately**
-* **Relevance**: Provides **relevant and helpful responses**
-* **Conversational ability**: Engages in **natural, multi-turn conversations**
-* **Empathy**: Demonstrates **emotional intelligence** when interacting
-* **Adaptability**: Can **adapt to user needs** as conversation evolves
-* **Seamlessness**: Offers a **seamless user experience** across various contexts
+> A good chatbot transforms user experience through:
 
-### What makes a bad chatbot?
+| Characteristic | Description |
+|----------------|-------------|
+| 🧠 **Understanding** | Ability to **interpret user intent accurately** across contexts |
+| 🎯 **Relevance** | Delivers **precise, helpful responses** that address user needs |
+| 💬 **Conversation** | Maintains **natural, flowing multi-turn dialogues** |
+| ❤️ **Empathy** | Shows **appropriate emotional intelligence** in interactions |
+| 🔄 **Adaptability** | **Evolves with user needs** throughout the conversation |
+| ⚡ **Seamlessness** | Creates **friction-free experiences** across platforms and contexts |
 
-A bad chatbot typically:
+</div>
 
-* **Misunderstands**: **Fails to understand user intent**
-* **Keyword fixation**: Relies heavily on **keyword matching** rather than context
-* **Irrelevance**: Provides **irrelevant or generic responses**
-* **Mechanical**: **Lacks emotional intelligence** in interactions
-* **Disjointed**: **Struggles with multi-turn conversations**
-* **Frustrating**: Creates **frustrating experiences** with unhelpful or robotic interactions
+## ❌ What makes a bad chatbot?
+
+<div class="bad-chatbot-box">
+
+> A bad chatbot frustrates users through:
+
+| Characteristic | Description |
+|----------------|-------------|
+| 🤔 **Misunderstanding** | **Repeatedly fails to grasp user intent** or context |
+| 🔑 **Keyword Fixation** | Relies on **simplistic matching** rather than understanding |
+| 🚫 **Irrelevance** | Provides **generic or unhelpful responses** to specific queries |
+| 🤖 **Mechanical** | Displays **robotic interactions** lacking human touch |
+| 🧩 **Disjointed** | Creates **fragmented conversations** with poor memory |
+| 😤 **Frustrating** | Leaves users with **negative experiences** and unmet needs |
+
+</div>
 
 ---
 
