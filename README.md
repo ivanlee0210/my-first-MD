@@ -28,38 +28,52 @@
 
 ## What is a Chatbot?
 
-In the lexicon, a chatbot is defined as “A computer program designed to simulate conversation with human users, especially over the Internet”.
+In the lexicon, a chatbot is defined as "A computer program designed to **simulate conversation** with human users, especially over the Internet".
 
-Chatbot is a computer program, which responds like a smart entity when conversed with through **text or voice** and understands one or more human languages by **Natural Language Processing (NLP)**. And they are also known as smart bots, interactive agents, digital assistants, or artificial conversation entities. ([Adamopoulou & Moussiades, 2020](#adamopoulou2020))
+Chatbot is a computer program, which responds like a **smart entity** when conversed with through **text or voice** and understands one or more human languages by **Natural Language Processing (NLP)**. And they are also known as *smart bots*, *interactive agents*, *digital assistants*, or *artificial conversation entities*. ([Adamopoulou & Moussiades, 2020](#adamopoulou2020))
 
-A chatbot is a typical example of an AI system and one of the most elementary and widespread examples of intelligent Human-Computer Interaction (HCI).
+A chatbot is a typical example of an **AI system** and one of the most elementary and widespread examples of **intelligent Human-Computer Interaction (HCI)**.
 
 ### Types of Chatbots:
 
 1. **Rule-Based Chatbots**:  
-   These chatbots follow predefined rules and workflows to respond to user queries. They are limited in scope and rely on specific keywords or commands.
+   These chatbots follow **predefined rules and workflows** to respond to user queries. They are *limited in scope* and rely on *specific keywords or commands*.
 
 2. **AI-Powered Chatbots**:  
-   These chatbots use machine learning and NLP to understand context, intent, and emotions, enabling more dynamic and natural conversations.
+   These chatbots use **machine learning** and **NLP** to understand *context*, *intent*, and *emotions*, enabling more **dynamic and natural conversations**.
 
 ### Common Use Cases:
 
-- **Customer Support**: Assisting users with inquiries, troubleshooting, and FAQs.  
-- **E-commerce**: Helping users find products, track orders, and process returns.  
-- **Healthcare**: Providing mental health support, appointment scheduling, and symptom checking.  
-- **Education**: Facilitating language learning, tutoring, and personalized study plans.
+- **Customer Support**: Assisting users with *inquiries*, *troubleshooting*, and *FAQs*.  
+- **E-commerce**: Helping users *find products*, *track orders*, and *process returns*.  
+- **Healthcare**: Providing *mental health support*, *appointment scheduling*, and *symptom checking*.  
+- **Education**: Facilitating *language learning*, *tutoring*, and *personalized study plans*.
 
-Chatbots are increasingly becoming an integral part of digital interactions, offering convenience, efficiency, and scalability for businesses and users alike.
+Chatbots are increasingly becoming an **integral part** of digital interactions, offering **convenience**, **efficiency**, and **scalability** for businesses and users alike.
 
 ---
 
 ### What makes a good chatbot?
 
-A good chatbot is characterized by its ability to understand user intent accurately, provide relevant and helpful responses, and engage in natural, multi-turn conversations. It should demonstrate emotional intelligence, adapt to user needs, and offer a seamless user experience across various contexts.
+A good chatbot exhibits:
+
+* **Understanding**: Ability to **understand user intent accurately**
+* **Relevance**: Provides **relevant and helpful responses**
+* **Conversational ability**: Engages in **natural, multi-turn conversations**
+* **Empathy**: Demonstrates **emotional intelligence** when interacting
+* **Adaptability**: Can **adapt to user needs** as conversation evolves
+* **Seamlessness**: Offers a **seamless user experience** across various contexts
 
 ### What makes a bad chatbot?
 
-A bad chatbot often fails to understand user intent, relies heavily on keyword matching, and provides irrelevant or generic responses. It may lack emotional intelligence, struggle with multi-turn conversations, and frustrate users with unhelpful or robotic interactions.
+A bad chatbot typically:
+
+* **Misunderstands**: **Fails to understand user intent**
+* **Keyword fixation**: Relies heavily on **keyword matching** rather than context
+* **Irrelevance**: Provides **irrelevant or generic responses**
+* **Mechanical**: **Lacks emotional intelligence** in interactions
+* **Disjointed**: **Struggles with multi-turn conversations**
+* **Frustrating**: Creates **frustrating experiences** with unhelpful or robotic interactions
 
 ---
 
