@@ -2,17 +2,17 @@
 
 <img src="/image/goodbad.png" width="60%">
 
-*This document outlines some examples of good chatbots and bad chatbots, and outlines some key differences between a good chatbot and a bad one.*
+*This document outlines some examples of good chatbots and bad chatbots, and outlines key differences between a good chatbot and a bad one.*
 
 ---
 
 # Table of Contents
 
-1. [What is a Chatbot?](#what-is-a-chatbot)
-   - [Types of Chatbots](#types-of-chatbots)
-   - [Common Use Cases](#common-use-cases)
-2. [What makes a good chatbot?](#what-makes-a-good-chatbot)
-3. [What makes a bad chatbot?](#what-makes-a-bad-chatbot)
+1. [What is a Chatbot?](#-what-is-a-chatbot)
+   - [Types of Chatbots](#-types-of-chatbots)
+   - [Common Use Cases](#-common-use-cases)
+2. [What makes a good chatbot?](#-what-makes-a-good-chatbot)
+3. [What makes a bad chatbot?](#-what-makes-a-bad-chatbot)
 4. [Examples of Good Chatbots](#examples-of-good-chatbots)  
    - [Woebot (Mental Health Companion)](#1-woebot-mental-health-companion)  
    - [Duolingo Max: Voice Conversations with Lily](#2-duolingo-max-voice-conversations-with-lily)  
@@ -155,7 +155,7 @@ Me: [......Share my feeling and things happened to me......]
 
 ### 2. Duolingo Max: *Voice Conversations with Lily* (Education / Language Learning)
 
-> **I am not sure if it really can be counted as a chatbot (maybe a conversational agent), but I really like it.**
+> **I am not sure if this really can be counted as a chatbot (maybe a conversational agent), but I really like it.**
 
 ![Duolingguo Lily](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPEYlrYdw9VGoQwtAYd4OEAwXR_E0GMYHSudBOCd1yGeiWn5WLCLJkLG690f8UyW7dJ61e_57PsnsaTxkp5FW8tXUTiaPCWL_mOdC5648uUERVptV6TTmkrDkDKNTUHu-D0GVLeq5_mUZKQ1MEEEasnEE?key=Z_VR1JadUlFxk0wY-HuZ8Q)
 
@@ -177,16 +177,16 @@ Me: [......Share my feeling and things happened to me......]
 
 ### 3. China Mobile Smart Assistant (AI-Driven Customer Service)
 
-> **This is a chatbot I recently used via China Mobile’s official platform. It is AI-powered and supports both voice and text input.**
+> **This is a chatbot I recently used via China Mobile's official platform. It is AI-powered and supports both voice and text input.**
 
 ---
 
-***Use Case**:I wanted to apply for a new SIM card.*
+***Use Case**: I wanted to apply for a new SIM card.*
 
 >**Experience Flow**:
 >>- I typed in my request: *"I want to get a new SIM card."*
 >>- The chatbot immediately understood the intent and **redirected me to the correct service page**.
->>- It also used **voice playback**, saying: *“I’ve found the following page for you. Please check if it meets your need.”*
+>>- It also used **voice playback**, saying: *"I've found the following page for you. Please check if it meets your needs."*
 >>- On the redirected page, a **floating avatar button** remained visible in the corner, allowing me to continue chatting at any time without going back.
 
 🟢 **Why it's good**:
@@ -251,7 +251,7 @@ User: Today's menu.
 <img src="/image/Kinggobot1.PNG" width="30%">
 <img src="/image/Kinggobot2.PNG" width="30%">
 
-> - The first two problems seem to be solved, but still is not so friendly for international studnets.
+> - The first two problems seem to be solved, but it is still not so friendly for international students.
 
 ---
 
@@ -272,4 +272,4 @@ User: Today's menu.
 
 - [Woebot Health Official Website](https://woebothealth.com/)
 - [Duolingo Blog: Video Call with Lily](https://blog.duolingo.com/video-call/)
-- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). Springer International Publishing.
+- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). [Springer International Publishing](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31).
