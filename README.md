@@ -275,8 +275,8 @@ User: Today's menu.
 
 ## References
 
-- <a id="woebothealth"></a>Woebot Health. (n.d.). *Woebot Health official website*. https://woebothealth.com/
+- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31
 
 - <a id="duolingo2023"></a>Duolingo. (2023, June 21). *Video call with Lily*. Duolingo Blog. https://blog.duolingo.com/video-call/
 
-- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31
+- <a id="woebothealth"></a>Woebot Health. (n.d.). *Woebot Health official website*. https://woebothealth.com/
