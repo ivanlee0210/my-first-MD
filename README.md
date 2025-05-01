@@ -123,6 +123,7 @@ It understands human languages through **Natural Language Processing (NLP)** and
 
 ![Woebot Screenshot from Internet 2](https://spectrum.ieee.org/media-library/screenshot-of-woebot-a-mental-health-app-showing-conversation-between-a-chatbot-and-a-user.png?id=52320366&alt=a%20text%20interaction%20on%20a%20phone.&width=250&quality=100)
 
+
 **My Personal Experience [*]:**
 
 [*]: Just based on my memory, not fully aligned with the application’s actual responses.
@@ -144,12 +145,14 @@ Me: [......Share my feeling and things happened to me......]
 - Shows empathy, such as emoji, empathy expressions, etc.
 - Offers practical support.  
 - Responds to emotional context.
-- I never felt like I was “doing therapy”.
+- I never felt like I was "doing therapy".
 
 ⚠️ **Something Limited**:
 
-- Sometimes my responses had to fit into pre-scripted “boxes”. --> This is related with the first way of its response.
+- Sometimes my responses had to fit into pre-scripted "boxes". --> This is related with the first way of its response.
 - The beginner-level information was redundant and boring.
+
+([Woebot Health, n.d.](#woebothealth))
 
 ---
 
@@ -172,6 +175,8 @@ Me: [......Share my feeling and things happened to me......]
 - *Contextual immersion*
 - *Personalized feedback*
 - *Boosts motivation*
+
+([Duolingo, 2023](#duolingo2023))
 
 ---
 
@@ -270,6 +275,8 @@ User: Today's menu.
 
 ## References
 
-- [Woebot Health Official Website](https://woebothealth.com/)
-- [Duolingo Blog: Video Call with Lily](https://blog.duolingo.com/video-call/)
-- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). [Springer International Publishing](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31).
+- <a id="woebothealth"></a>Woebot Health. (n.d.). *Woebot Health official website*. https://woebothealth.com/
+
+- <a id="duolingo2023"></a>Duolingo. (2023, June 21). *Video call with Lily*. Duolingo Blog. https://blog.duolingo.com/video-call/
+
+- <a id="adamopoulou2020"></a>Adamopoulou, E., & Moussiades, L. (2020). An overview of chatbot technology. In *Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16* (pp. 373-383). Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31
