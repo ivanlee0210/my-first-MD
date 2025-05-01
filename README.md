@@ -2,7 +2,7 @@
 
 <img src="/image/goodbad.png" width="60%">
 
-*This document outlines some examples of good chatbots and bad chatbots, and outlines key differences between a good chatbot and a bad one.*
+*This document provides a comprehensive analysis of chatbot quality. It defines what chatbots are, explains the characteristics that distinguish good and bad chatbots, and presents real-world examples of each type. The document also includes a detailed comparison table highlighting key differences between effective and ineffective chatbot implementations.*
 
 ---
 
